@@ -7,10 +7,10 @@ spring:
   application:
     name: @pom.artifactId@
   rabbitmq:
-    host: paascloud-mq-rabbit
+    host: localhost
     port: 5672
-    username: guest
-    password: guest
+    username: root
+    password: root
   boot:
     admin:
       username: admin
