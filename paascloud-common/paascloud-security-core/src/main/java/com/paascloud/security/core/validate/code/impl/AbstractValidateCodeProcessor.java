@@ -12,7 +12,7 @@
 package com.paascloud.security.core.validate.code.impl;
 
 import com.paascloud.security.core.validate.code.*;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.ServletRequestBindingException;
 import org.springframework.web.bind.ServletRequestUtils;
