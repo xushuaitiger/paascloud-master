@@ -5,10 +5,10 @@ spring:
     config:
       fail-fast: true
       discovery:
-        service-id: paascloud-discovery
+        service-id: paascloud-config
         enabled: true
-      label: ${spring.profiles.active}
-      profile: ${spring.profiles.active}
+
+      profile: dev
       username: admin
       password: admin
 
