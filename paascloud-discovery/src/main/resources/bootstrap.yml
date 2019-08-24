@@ -7,7 +7,7 @@ spring:
           username:
           password:
           search-paths: /*
-          basedir: D:/test
+          basedir: i:/test
     inetutils:
       ignoredInterfaces:
         - docker0
