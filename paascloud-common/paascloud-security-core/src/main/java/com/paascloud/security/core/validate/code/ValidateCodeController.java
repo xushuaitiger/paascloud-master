@@ -36,6 +36,7 @@ public class ValidateCodeController {
 	 */
 	@PostMapping(SecurityConstants.DEFAULT_VALIDATE_CODE_URL_PREFIX + "/{type}")
 	public void createCode(HttpServletRequest request, HttpServletResponse response, @PathVariable String type) throws Exception {
+		System.out.println("---获取验证码图片开始：");
 		validateCodeProcessorHolder.findValidateCodeProcessor(type).create(new ServletWebRequest(request, response));
 	}
 
@@ -50,6 +51,7 @@ public class ValidateCodeController {
 	 */
 	@GetMapping(SecurityConstants.DEFAULT_VALIDATE_CODE_URL_PREFIX + "/{type}")
 	public Object checkCode(HttpServletRequest request, HttpServletResponse response, @PathVariable String type) {
+		System.out.println("---获取验证码图片开始：");
 		SecurityResult result = new SecurityResult(SecurityResult.SUCCESS_CODE, "校验成功", true);
 		try {
 			validateCodeProcessorHolder.findValidateCodeProcessor(type).check(new ServletWebRequest(request, response));

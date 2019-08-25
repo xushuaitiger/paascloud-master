@@ -1,9 +1,14 @@
 package com.paascloud.security.core.authentication;
 
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
+import org.springframework.social.security.SocialUser;
 import org.springframework.social.security.SocialUserDetails;
 import org.springframework.social.security.SocialUserDetailsService;
+
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * 默认的SocialUserDetailsService实现
@@ -26,7 +31,9 @@ public class DefaultSocialUserDetailsServiceImpl implements SocialUserDetailsSer
 	@Override
 	public SocialUserDetails loadUserByUserId(String userId) throws UsernameNotFoundException {
 		log.warn("请配置 SocialUserDetailsService 接口的实现.");
-		throw new UsernameNotFoundException(userId);
+		List<GrantedAuthority> authorities = new ArrayList<GrantedAuthority>();
+		return new SocialUser("admin","admin",true,true,true,true,authorities);
+		//throw new UsernameNotFoundException(userId);
 	}
 
 }
