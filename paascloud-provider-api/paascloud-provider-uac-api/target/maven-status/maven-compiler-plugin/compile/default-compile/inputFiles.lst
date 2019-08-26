@@ -1,0 +1,17 @@
+D:\passcloud\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\ForgetResetPasswordDto.java
+D:\passcloud\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\service\UacUserTokenFeignApi.java
+D:\passcloud\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\UserRegisterDto.java
+D:\passcloud\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\ResetPasswordDto.java
+D:\passcloud\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\service\UacMqMessageFeignApi.java
+D:\passcloud\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\vo\MenuVo.java
+D:\passcloud\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\ForgetCheckAnswerDto.java
+D:\passcloud\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\enums\UacGroupTypeEnum.java
+D:\passcloud\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\exceptions\UacBizException.java
+D:\passcloud\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\constant\UacApiConstant.java
+D:\passcloud\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\Perm.java
+D:\passcloud\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\UserInfoDto.java
+D:\passcloud\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\constant\UacConstant.java
+D:\passcloud\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\service\hystrix\UacMqMessageApiHystrix.java
+D:\passcloud\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\IdStatusDto.java
+D:\passcloud\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\dto\user\LoginReqDto.java
+D:\passcloud\paascloud-master\paascloud-provider-api\paascloud-provider-uac-api\src\main\java\com\paascloud\provider\model\service\hystrix\UacUserTokenFeignApiHystrix.java
