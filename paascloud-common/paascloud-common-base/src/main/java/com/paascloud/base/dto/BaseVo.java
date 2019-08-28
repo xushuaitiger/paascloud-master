@@ -22,7 +22,7 @@ import java.util.Date;
 /**
  * The class Base vo.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @ApiModel
 @Data

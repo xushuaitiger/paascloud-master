@@ -24,7 +24,7 @@ import java.util.Map;
 /**
  * The class Check file util.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class CheckFileUtil {
@@ -107,7 +107,7 @@ public class CheckFileUtil {
 	/**
 	 * The enum File type enum.
 	 *
-	 * @author paascloud.net@gmail.com
+	 * @author tiger
 	 */
 	public enum FileTypeEnum {
 

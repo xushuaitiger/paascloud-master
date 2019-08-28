@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * The class Bind user roles dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @ApiModel
 @Data

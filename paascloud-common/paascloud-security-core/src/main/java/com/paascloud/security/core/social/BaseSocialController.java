@@ -19,7 +19,7 @@ import com.paascloud.security.core.social.support.SocialUserInfo;
 /**
  * The class Social controller.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public abstract class BaseSocialController {
 

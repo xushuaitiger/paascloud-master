@@ -20,7 +20,7 @@ import java.util.Map;
 /**
  * The class Additional parameters.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel

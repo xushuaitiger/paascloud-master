@@ -21,7 +21,7 @@ import java.io.Serializable;
 /**
  * The class Check user name dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel(value = "校验真实姓名唯一性Dto ")

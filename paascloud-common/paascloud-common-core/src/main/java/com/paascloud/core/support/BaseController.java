@@ -27,7 +27,7 @@ import org.slf4j.LoggerFactory;
 /**
  * The class Base controller.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public class BaseController {
 
@@ -100,4 +100,3 @@ public class BaseController {
 	}
 
 }
-  

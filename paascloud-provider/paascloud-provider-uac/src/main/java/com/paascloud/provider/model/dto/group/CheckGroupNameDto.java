@@ -19,7 +19,7 @@ import lombok.Data;
 /**
  * The class Check group name dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel

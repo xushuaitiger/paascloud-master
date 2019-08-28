@@ -21,7 +21,7 @@ import java.io.Serializable;
 /**
  * The class Address dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel

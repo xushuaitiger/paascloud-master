@@ -13,7 +13,7 @@ package com.paascloud.base.exception;
 /**
  * The class Boolean parse exception.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public class BooleanParseException extends RuntimeException {
 

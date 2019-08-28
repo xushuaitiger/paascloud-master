@@ -29,7 +29,7 @@ import javax.annotation.Resource;
 /**
  * The class Aliyun mq configuration.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Slf4j
 @Configuration

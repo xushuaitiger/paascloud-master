@@ -19,7 +19,7 @@ import java.math.BigDecimal;
 /**
  * The class Cart product vo.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 public class CartProductVo implements Serializable {

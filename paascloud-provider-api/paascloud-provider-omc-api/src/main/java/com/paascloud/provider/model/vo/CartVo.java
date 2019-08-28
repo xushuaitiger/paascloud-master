@@ -20,7 +20,7 @@ import java.util.List;
 /**
  * The class Cart vo.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 public class CartVo implements Serializable {

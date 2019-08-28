@@ -17,7 +17,7 @@ import java.io.Serializable;
 /**
  * The class Base query.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 public class BaseQuery implements Serializable {

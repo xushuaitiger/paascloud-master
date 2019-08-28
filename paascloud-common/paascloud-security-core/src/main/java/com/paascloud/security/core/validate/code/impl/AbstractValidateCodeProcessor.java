@@ -23,7 +23,7 @@ import java.util.Map;
 /**
  * 抽象的图片验证码处理器
  *
- * @param <C> the type parameter @author paascloud.net@gmail.com
+ * @param <C> the type parameter @author tiger
  *
  * @author tiger
  */

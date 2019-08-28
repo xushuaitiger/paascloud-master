@@ -21,7 +21,7 @@ import java.io.Serializable;
 /**
  * The class Check user phone dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel(value = "校验用户电话号码唯一性Dto ")

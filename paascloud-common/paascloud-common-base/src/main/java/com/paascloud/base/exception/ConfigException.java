@@ -13,7 +13,7 @@ package com.paascloud.base.exception;
 /**
  * The class Config exception.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public class ConfigException extends RuntimeException {
 
