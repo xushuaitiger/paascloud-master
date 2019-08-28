@@ -17,7 +17,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 /**
  * The class Oauth 2 client properties.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Data
 @ConfigurationProperties(prefix = "paascloud.oauth2.client")

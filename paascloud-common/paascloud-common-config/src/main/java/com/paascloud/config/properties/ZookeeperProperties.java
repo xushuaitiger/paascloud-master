@@ -17,7 +17,7 @@ import lombok.Data;
 /**
  * The class Job zookeeper properties.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Data
 public class ZookeeperProperties {

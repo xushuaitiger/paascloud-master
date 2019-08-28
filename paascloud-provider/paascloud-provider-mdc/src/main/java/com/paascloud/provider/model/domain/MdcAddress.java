@@ -20,7 +20,7 @@ import javax.persistence.*;
 /**
  * The class Mdc address.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

@@ -28,7 +28,7 @@ import java.util.Map;
 /**
  * 图片验证码处理器
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Component("imageValidateCodeProcessor")
 public class ImageCodeProcessor extends AbstractValidateCodeProcessor<ImageCode> {

@@ -22,7 +22,7 @@ import java.util.List;
 /**
  * The interface Mdc exception log mapper.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Mapper
 @Component

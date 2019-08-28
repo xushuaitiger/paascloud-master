@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 /**
  * The interface Omc order query feign api.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @FeignClient(value = "paascloud-provider-omc", configuration = OAuth2FeignAutoConfiguration.class, fallback = OmcOrderQueryFeignHystrix.class)
 public interface OmcOrderQueryFeignApi {

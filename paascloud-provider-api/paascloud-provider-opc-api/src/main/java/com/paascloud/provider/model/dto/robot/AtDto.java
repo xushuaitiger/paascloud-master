@@ -21,7 +21,7 @@ import java.io.Serializable;
 /**
  * The class At dto.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel(value = "AtDto")

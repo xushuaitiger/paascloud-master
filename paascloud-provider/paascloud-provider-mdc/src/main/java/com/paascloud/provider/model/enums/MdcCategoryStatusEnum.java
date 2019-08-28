@@ -15,7 +15,7 @@ package com.paascloud.provider.model.enums;
 /**
  * The enum Mdc category status enum.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 public enum MdcCategoryStatusEnum {
 	/**

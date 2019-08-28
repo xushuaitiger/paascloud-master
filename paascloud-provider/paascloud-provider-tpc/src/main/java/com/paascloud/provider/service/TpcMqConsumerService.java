@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * The interface Tpc mq consumer service.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 public interface TpcMqConsumerService extends IService<TpcMqConsumer> {
 	/**

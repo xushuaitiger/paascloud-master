@@ -42,7 +42,7 @@ import java.util.Map;
 /**
  * The class Opt file controller.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/file", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)

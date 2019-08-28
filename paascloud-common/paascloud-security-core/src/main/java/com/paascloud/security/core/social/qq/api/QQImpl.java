@@ -22,7 +22,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 /**
  * The class Qq.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Slf4j
 public class QQImpl extends AbstractOAuth2ApiBinding implements QQ {

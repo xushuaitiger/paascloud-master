@@ -19,7 +19,7 @@ import java.io.Serializable;
 /**
  * The class Mdc edit category dto.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Data
 public class MdcEditCategoryDto implements Serializable {

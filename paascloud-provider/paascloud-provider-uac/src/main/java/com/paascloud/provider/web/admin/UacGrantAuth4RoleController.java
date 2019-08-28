@@ -33,7 +33,7 @@ import javax.annotation.Resource;
 /**
  * 角色授权.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/role", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)

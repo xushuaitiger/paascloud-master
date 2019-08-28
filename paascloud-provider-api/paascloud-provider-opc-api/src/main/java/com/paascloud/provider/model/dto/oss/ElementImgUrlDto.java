@@ -19,7 +19,7 @@ import java.io.Serializable;
 /**
  * The class Element img url dto.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Data
 @AllArgsConstructor

@@ -14,7 +14,7 @@ package com.paascloud.provider.model.constant;
 /**
  * The class Uac constant.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 public class UacConstant {
 
@@ -26,7 +26,7 @@ public class UacConstant {
 	/**
 	 * token变量
 	 *
-	 * @author paascloud.net @gmail.com
+	 * @author tiger
 	 */
 	public static final class Token {
 		/**
@@ -63,7 +63,7 @@ public class UacConstant {
 		/**
 		 * The class Jwt.
 		 *
-		 * @author paascloud.net @gmail.com
+		 * @author tiger
 		 */
 		public static final class Jwt {
 			/**
@@ -80,7 +80,7 @@ public class UacConstant {
 	/**
 	 * The class User.
 	 *
-	 * @author paascloud.net @gmail.com
+	 * @author tiger
 	 */
 	public static final class User {
 		/**
@@ -92,7 +92,7 @@ public class UacConstant {
 	/**
 	 * The class Cookie.
 	 *
-	 * @author paascloud.net @gmail.com
+	 * @author tiger
 	 */
 	public static final class Cookie {
 		/**

@@ -19,7 +19,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * The class Mdc biz exception.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Slf4j
 public class MdcBizException extends BusinessException {

@@ -29,7 +29,7 @@ import com.paascloud.security.core.properties.SecurityProperties;
 /**
  * The class Token store config.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Configuration
 public class TokenStoreConfig {
@@ -59,7 +59,7 @@ public class TokenStoreConfig {
 	/**
 	 * 使用jwt时的配置，默认生效
 	 *
-	 * @author paascloud.net @gmail.com
+	 * @author tiger
 	 */
 	@Configuration
 	@ConditionalOnProperty(prefix = "paascloud.security.oauth2", name = "tokenStore", havingValue = "jwt", matchIfMissing = true)

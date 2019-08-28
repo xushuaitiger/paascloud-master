@@ -19,7 +19,7 @@ import java.util.List;
 /**
  * The class Mdc mq consumer vo.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

@@ -23,7 +23,7 @@ import java.util.List;
 /**
  * The class Product vo.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

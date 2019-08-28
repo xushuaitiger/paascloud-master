@@ -20,7 +20,7 @@ import java.util.Date;
 /**
  * The class User token vo.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

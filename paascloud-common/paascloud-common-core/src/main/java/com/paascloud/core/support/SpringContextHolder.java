@@ -21,7 +21,7 @@ import org.springframework.stereotype.Component;
 /**
  * The class Spring context holder.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Component
 public class SpringContextHolder implements ApplicationContextAware {

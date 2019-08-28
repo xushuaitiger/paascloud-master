@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * The interface Uac permission service.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 public interface UacPermissionService {
 

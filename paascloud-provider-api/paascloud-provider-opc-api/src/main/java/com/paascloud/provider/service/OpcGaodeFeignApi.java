@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 /**
  * The interface Opc gao feign api.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @FeignClient(value = "paascloud-provider-opc", configuration = OAuth2FeignAutoConfiguration.class, fallback = OpcGaodeFeignApiHystrix.class)
 public interface OpcGaodeFeignApi {

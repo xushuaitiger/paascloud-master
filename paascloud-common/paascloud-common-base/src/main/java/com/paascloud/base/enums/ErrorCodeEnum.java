@@ -14,7 +14,7 @@ package com.paascloud.base.enums;
 /**
  * The class Error code enum.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 public enum ErrorCodeEnum {
 	/**

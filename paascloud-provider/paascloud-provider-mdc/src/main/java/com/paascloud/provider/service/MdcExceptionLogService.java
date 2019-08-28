@@ -21,7 +21,7 @@ import com.paascloud.provider.model.dto.MdcExceptionQueryDto;
 /**
  * The interface Mdc exception log service.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 public interface MdcExceptionLogService extends IService<MdcExceptionLog> {
 	/**

@@ -18,7 +18,7 @@ import lombok.EqualsAndHashCode;
 /**
  * The class Order page query.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

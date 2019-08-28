@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * The interface Sms service.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 public interface SmsService {
 	/**

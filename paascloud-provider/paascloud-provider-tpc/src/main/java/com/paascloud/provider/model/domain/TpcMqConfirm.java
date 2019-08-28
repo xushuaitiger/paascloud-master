@@ -21,7 +21,7 @@ import java.util.Date;
 /**
  * The class Tpc mq confirm.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Data
 @Alias("tpcMqConfirm")

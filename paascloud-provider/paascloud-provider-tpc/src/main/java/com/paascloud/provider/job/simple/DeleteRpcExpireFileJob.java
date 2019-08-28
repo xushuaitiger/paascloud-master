@@ -22,7 +22,7 @@ import javax.annotation.Resource;
 /**
  * 定时清理无效OSS文件.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Slf4j
 @ElasticJobConfig(cron = "0 0 0 1/1 * ?")

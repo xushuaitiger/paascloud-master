@@ -41,7 +41,7 @@ import java.util.List;
 /**
  * The class Mdc product category query feign client.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @RefreshScope
 @RestController

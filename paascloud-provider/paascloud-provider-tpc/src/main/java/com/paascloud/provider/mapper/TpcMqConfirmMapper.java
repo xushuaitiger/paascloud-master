@@ -22,7 +22,7 @@ import java.util.List;
 /**
  * The interface Tpc mq confirm mapper.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Component
 @Mapper

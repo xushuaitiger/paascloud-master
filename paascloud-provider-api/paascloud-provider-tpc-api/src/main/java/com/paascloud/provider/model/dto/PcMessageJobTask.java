@@ -19,7 +19,7 @@ import java.io.Serializable;
 /**
  * The class Pc message job task.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Data
 public class PcMessageJobTask implements Serializable {

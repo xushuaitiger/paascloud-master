@@ -21,7 +21,7 @@ import java.util.Set;
 /**
  * The interface Uac role menu service.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 public interface UacRoleMenuService extends IService<UacRoleMenu> {
 	/**

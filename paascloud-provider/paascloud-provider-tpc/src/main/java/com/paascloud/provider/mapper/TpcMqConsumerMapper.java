@@ -24,7 +24,7 @@ import java.util.List;
 /**
  * The interface Tpc mq consumer mapper.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Mapper
 @Component

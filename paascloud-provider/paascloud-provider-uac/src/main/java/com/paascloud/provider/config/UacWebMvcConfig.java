@@ -29,7 +29,7 @@ import java.util.List;
 /**
  * The class Web mvc config.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Configuration
 @EnableWebMvc

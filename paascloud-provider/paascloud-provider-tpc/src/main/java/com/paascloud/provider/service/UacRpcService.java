@@ -30,7 +30,7 @@ import java.util.List;
 /**
  * The class Uac rpc service.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Service
 @Slf4j

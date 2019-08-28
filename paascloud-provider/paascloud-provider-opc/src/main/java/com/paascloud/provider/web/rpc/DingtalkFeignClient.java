@@ -38,7 +38,7 @@ import java.io.IOException;
 /**
  * The class Opc attachment feign client.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @RestController
 @Api(value = "API - DingtalkFeignClient", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)

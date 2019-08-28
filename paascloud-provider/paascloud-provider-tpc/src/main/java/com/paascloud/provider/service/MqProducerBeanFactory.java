@@ -24,7 +24,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * The class Mq producer bean factory.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 public class MqProducerBeanFactory {
 

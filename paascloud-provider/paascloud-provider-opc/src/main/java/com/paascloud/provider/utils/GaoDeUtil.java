@@ -23,7 +23,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * The class Gao de util.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Slf4j
 @NoArgsConstructor(access = AccessLevel.PRIVATE)

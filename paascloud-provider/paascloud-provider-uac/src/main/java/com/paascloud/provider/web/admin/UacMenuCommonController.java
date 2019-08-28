@@ -35,7 +35,7 @@ import javax.annotation.Resource;
 /**
  * 菜单.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/menu", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)

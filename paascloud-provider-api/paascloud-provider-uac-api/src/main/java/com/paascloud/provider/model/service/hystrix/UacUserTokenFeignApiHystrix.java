@@ -19,7 +19,7 @@ import org.springframework.stereotype.Component;
 /**
  * The class Uac user token feign api hystrix.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Component
 public class UacUserTokenFeignApiHystrix implements UacUserTokenFeignApi {

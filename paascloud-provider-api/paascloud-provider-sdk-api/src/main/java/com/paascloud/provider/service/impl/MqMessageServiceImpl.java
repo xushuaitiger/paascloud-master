@@ -45,7 +45,7 @@ import java.util.List;
 /**
  * The class Mq message service.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Slf4j
 @Service

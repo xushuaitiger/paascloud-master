@@ -18,7 +18,7 @@ import org.apache.commons.lang3.StringUtils;
 /**
  * The class Security result.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Data
 @NoArgsConstructor

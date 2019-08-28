@@ -21,7 +21,7 @@ import java.io.Serializable;
 /**
  * The class Text dto.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel(value = "text类型")

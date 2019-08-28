@@ -35,7 +35,7 @@ import java.lang.reflect.Method;
 /**
  * The class Mq producer store aspect.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Slf4j
 @Aspect

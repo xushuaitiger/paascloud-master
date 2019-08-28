@@ -18,7 +18,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * The class Uac biz exception.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Slf4j
 public class UacBizException extends BusinessException {

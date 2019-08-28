@@ -15,7 +15,7 @@ import java.util.Collection;
 /**
  * The class Uac user details service.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Component
 public class UacUserDetailsServiceImpl implements UserDetailsService {

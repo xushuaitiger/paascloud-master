@@ -20,7 +20,7 @@ import java.util.List;
 /**
  * The class Pc job task.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Data
 public class PcJobTask implements Serializable {

@@ -29,7 +29,7 @@ import java.util.Map;
 /**
  * The class Pc access denied handler.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Slf4j
 @Configuration

@@ -20,7 +20,7 @@ import java.util.List;
 /**
  * The interface Tpc mq tag service.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 public interface TpcMqTagService extends IService<TpcMqTag> {
 	/**

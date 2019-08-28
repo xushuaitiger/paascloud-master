@@ -31,7 +31,7 @@ import javax.annotation.Resource;
 /**
  * The class Mq producer change listener.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Component
 @Slf4j

@@ -29,7 +29,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 短信验证码处理器
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Component("smsValidateCodeProcessor")
 @Slf4j

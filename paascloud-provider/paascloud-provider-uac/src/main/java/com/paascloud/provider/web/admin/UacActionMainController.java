@@ -37,7 +37,7 @@ import java.util.List;
 /**
  * The class Uac action main controller.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/action", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)

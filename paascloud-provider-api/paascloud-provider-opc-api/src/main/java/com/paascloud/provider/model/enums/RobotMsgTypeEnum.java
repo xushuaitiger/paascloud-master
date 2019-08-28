@@ -14,7 +14,7 @@ package com.paascloud.provider.model.enums;
 /**
  * The enum Robot msg type enum.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 public enum RobotMsgTypeEnum {
 	/**

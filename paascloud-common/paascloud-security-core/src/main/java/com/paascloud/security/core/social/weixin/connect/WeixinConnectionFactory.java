@@ -24,7 +24,7 @@ import com.paascloud.security.core.social.weixin.api.Weixin;
 /**
  * 微信连接工厂
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 public class WeixinConnectionFactory extends OAuth2ConnectionFactory<Weixin> {
 

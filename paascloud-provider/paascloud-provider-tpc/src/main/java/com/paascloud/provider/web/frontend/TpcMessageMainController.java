@@ -35,7 +35,7 @@ import java.util.TreeMap;
 /**
  * 异常管理.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/message", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)

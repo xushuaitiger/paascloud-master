@@ -32,7 +32,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * The class Uac push message listener.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Slf4j
 @Component

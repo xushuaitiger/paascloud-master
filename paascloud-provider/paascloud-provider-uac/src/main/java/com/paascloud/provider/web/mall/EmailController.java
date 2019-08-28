@@ -32,7 +32,7 @@ import javax.annotation.Resource;
 /**
  * The class Email controller.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/email", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)

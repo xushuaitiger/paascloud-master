@@ -28,7 +28,7 @@ import com.paascloud.security.core.social.view.PcConnectView;
 /**
  * 微信登录配置
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Configuration
 @ConditionalOnProperty(prefix = "paascloud.security.social.weixin", name = "app-id")

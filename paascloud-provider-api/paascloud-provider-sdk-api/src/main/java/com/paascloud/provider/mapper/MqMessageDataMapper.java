@@ -23,7 +23,7 @@ import java.util.List;
 /**
  * The interface Mq message data mapper.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Component
 @Mapper

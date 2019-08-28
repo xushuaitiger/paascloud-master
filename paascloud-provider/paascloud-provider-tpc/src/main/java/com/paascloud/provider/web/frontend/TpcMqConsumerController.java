@@ -40,7 +40,7 @@ import java.util.TreeMap;
 /**
  * 消费者管理.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/consumer", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)

@@ -24,7 +24,7 @@ import java.util.List;
 /**
  * The interface Mdc product service.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 public interface MdcProductService extends IService<MdcProduct> {
 

@@ -25,7 +25,7 @@ import java.util.concurrent.atomic.AtomicLong;
 /**
  * The class Handle user token job listener.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Slf4j
 public class HandleUserTokenJobListener implements ElasticJobListener {

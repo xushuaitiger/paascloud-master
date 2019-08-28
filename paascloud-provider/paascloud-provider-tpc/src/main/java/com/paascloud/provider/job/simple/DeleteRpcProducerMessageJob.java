@@ -27,7 +27,7 @@ import javax.annotation.Resource;
 /**
  * 定时清理所有生产者发送成功的消息数据.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Slf4j
 @ElasticJobConfig(cron = "0 0 1 1/1 * ?")

@@ -21,7 +21,7 @@ import lombok.NoArgsConstructor;
 /**
  * 钉钉消息对象创建工厂.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class ChatRobotMsgFactory {

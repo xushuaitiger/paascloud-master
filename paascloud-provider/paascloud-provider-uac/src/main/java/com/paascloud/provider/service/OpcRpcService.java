@@ -14,7 +14,7 @@ package com.paascloud.provider.service;
 /**
  * The interface Opc rpc service.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 public interface OpcRpcService {
 

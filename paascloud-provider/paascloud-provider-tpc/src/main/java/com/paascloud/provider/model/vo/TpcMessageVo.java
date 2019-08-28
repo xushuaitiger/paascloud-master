@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * The class Tpc mq message.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

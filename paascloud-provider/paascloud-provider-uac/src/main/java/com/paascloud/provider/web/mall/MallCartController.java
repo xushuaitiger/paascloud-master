@@ -32,7 +32,7 @@ import java.util.List;
 /**
  * 购物车管理.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/cart", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)

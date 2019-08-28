@@ -23,7 +23,7 @@ import java.util.List;
 /**
  * The interface Tpc mq message feign api.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 public interface MqMessageService {
 

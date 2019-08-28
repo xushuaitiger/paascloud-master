@@ -18,7 +18,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * The class Aliyun core config.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Configuration
 @EnableConfigurationProperties(PaascloudProperties.class)

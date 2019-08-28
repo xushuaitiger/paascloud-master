@@ -21,7 +21,7 @@ import java.util.Properties;
 /**
  * The class Captcha config.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Configuration
 public class CaptchaConfig {

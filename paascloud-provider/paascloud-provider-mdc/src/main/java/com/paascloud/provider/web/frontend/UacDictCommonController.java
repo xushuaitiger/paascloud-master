@@ -34,7 +34,7 @@ import javax.annotation.Resource;
 /**
  * The class Uac dict common controller.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/dict", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)

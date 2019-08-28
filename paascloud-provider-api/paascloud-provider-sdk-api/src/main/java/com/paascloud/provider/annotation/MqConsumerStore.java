@@ -17,7 +17,7 @@ import java.lang.annotation.*;
 /**
  * 保存消费者消息.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Target({ElementType.METHOD, ElementType.TYPE})
 @Retention(RetentionPolicy.RUNTIME)

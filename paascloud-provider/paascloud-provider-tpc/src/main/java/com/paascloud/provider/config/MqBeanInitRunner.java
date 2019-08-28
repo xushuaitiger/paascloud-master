@@ -35,7 +35,7 @@ import java.util.List;
 /**
  * The class Redis init runner.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Component
 @Order(Ordered.HIGHEST_PRECEDENCE)

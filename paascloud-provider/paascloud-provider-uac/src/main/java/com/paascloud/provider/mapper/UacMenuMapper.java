@@ -24,7 +24,7 @@ import java.util.Set;
 /**
  * The interface Uac menu mapper.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Mapper
 @Component

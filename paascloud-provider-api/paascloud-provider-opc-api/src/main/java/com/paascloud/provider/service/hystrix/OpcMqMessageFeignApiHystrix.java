@@ -24,7 +24,7 @@ import java.util.List;
 /**
  * The class Opc mq message feign api hystrix.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Component
 public class OpcMqMessageFeignApiHystrix implements OpcMqMessageFeignApi {

@@ -21,7 +21,7 @@ import java.util.Date;
 /**
  * The class Mq message data.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Table(name = "pc_mq_message_data")
 @Data

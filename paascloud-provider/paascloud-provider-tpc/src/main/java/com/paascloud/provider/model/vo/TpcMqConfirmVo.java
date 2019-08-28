@@ -19,7 +19,7 @@ import lombok.NoArgsConstructor;
 /**
  * The class Tpc mq confirm.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

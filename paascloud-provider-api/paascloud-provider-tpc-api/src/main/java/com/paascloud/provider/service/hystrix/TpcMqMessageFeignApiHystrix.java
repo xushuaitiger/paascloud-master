@@ -21,7 +21,7 @@ import org.springframework.stereotype.Component;
 /**
  * The class Tpc mq message feign api hystrix.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Component
 @Slf4j

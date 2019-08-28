@@ -14,7 +14,7 @@ package com.paascloud.core.generator;
 /**
  * The interface Id generator.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 public interface IdGenerator {
 

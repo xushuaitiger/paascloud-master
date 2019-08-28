@@ -23,7 +23,7 @@ import javax.persistence.Table;
 /**
  * The class Tpc mq consumer tag.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

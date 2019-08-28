@@ -25,7 +25,7 @@ import java.util.List;
 /**
  * The class Uac mq message api hystrix.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Component
 public class UacMqMessageApiHystrix implements UacMqMessageFeignApi {

@@ -20,7 +20,7 @@ import org.springframework.stereotype.Component;
 /**
  * The class Mdc exception log feign hystrix.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Component
 public class MdcExceptionLogFeignHystrix implements MdcExceptionLogFeignApi {

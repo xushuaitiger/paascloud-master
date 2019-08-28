@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * The class Action main query dto.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

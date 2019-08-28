@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 /**
  * The interface Uac user token feign api.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @FeignClient(value = "paascloud-provider-uac", configuration = OAuth2FeignAutoConfiguration.class, fallback = UacUserTokenFeignApiHystrix.class)
 public interface UacUserTokenFeignApi {

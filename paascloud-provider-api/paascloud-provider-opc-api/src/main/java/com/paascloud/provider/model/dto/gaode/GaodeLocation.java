@@ -18,7 +18,7 @@ import lombok.EqualsAndHashCode;
 /**
  * The class Gaode location.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

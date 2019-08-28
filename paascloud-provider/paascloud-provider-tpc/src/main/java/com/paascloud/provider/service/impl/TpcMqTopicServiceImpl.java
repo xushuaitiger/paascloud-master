@@ -25,7 +25,7 @@ import java.util.List;
 /**
  * The class Tpc mq topic service.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Service
 @Transactional(rollbackFor = Exception.class)

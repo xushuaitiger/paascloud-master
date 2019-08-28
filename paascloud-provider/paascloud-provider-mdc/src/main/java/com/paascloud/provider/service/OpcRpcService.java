@@ -25,7 +25,7 @@ import java.util.List;
 /**
  * The class Opc rpc service.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Component
 public class OpcRpcService {

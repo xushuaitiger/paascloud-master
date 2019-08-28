@@ -16,7 +16,7 @@ import lombok.Data;
 /**
  * The class Async task properties.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Data
 public class SwaggerProperties {

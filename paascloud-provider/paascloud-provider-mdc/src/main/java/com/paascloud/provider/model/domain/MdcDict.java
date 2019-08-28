@@ -22,7 +22,7 @@ import javax.persistence.Table;
 /**
  * 数据字典.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

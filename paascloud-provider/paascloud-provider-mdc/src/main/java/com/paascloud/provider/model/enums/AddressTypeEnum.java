@@ -14,7 +14,7 @@ package com.paascloud.provider.model.enums;
 /**
  * 地址类型枚举类
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 public enum AddressTypeEnum {
 

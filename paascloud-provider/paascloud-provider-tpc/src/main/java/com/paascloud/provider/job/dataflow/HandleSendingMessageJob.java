@@ -35,7 +35,7 @@ import java.util.List;
 /**
  * 处理发送中的消息数据.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Component
 @Slf4j

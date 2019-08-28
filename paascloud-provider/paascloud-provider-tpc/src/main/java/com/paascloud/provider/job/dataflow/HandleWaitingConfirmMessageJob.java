@@ -31,7 +31,7 @@ import java.util.List;
 /**
  * 处理待确认的消息数据.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @Slf4j
 @Component

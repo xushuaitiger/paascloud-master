@@ -19,7 +19,7 @@ import java.util.List;
 /**
  * The enum Uac user token status enum.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 public enum UacUserTokenStatusEnum {
 	/**

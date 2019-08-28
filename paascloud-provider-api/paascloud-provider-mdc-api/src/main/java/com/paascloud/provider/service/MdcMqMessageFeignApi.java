@@ -28,7 +28,7 @@ import java.util.List;
 /**
  * The interface Mdc mq message feign api.
  *
- * @author paascloud.net @gmail.com
+ * @author tiger
  */
 @FeignClient(value = "paascloud-provider-mdc", configuration = OAuth2FeignAutoConfiguration.class, fallback = MdcMqMessageApiHystrix.class)
 public interface MdcMqMessageFeignApi {
