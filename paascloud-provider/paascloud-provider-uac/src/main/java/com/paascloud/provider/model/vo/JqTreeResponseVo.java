@@ -19,7 +19,7 @@ import java.util.Date;
 /**
  * The class Jq tree response vo.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 public class JqTreeResponseVo {

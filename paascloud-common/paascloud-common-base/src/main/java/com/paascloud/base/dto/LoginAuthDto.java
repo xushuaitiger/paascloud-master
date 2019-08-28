@@ -19,7 +19,7 @@ import java.io.Serializable;
 /**
  * The class Login auth dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel(value = "登录人信息")

@@ -17,7 +17,7 @@ import lombok.Data;
 /**
  * The class Item.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel

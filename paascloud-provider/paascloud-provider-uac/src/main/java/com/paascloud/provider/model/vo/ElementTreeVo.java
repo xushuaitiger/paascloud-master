@@ -19,7 +19,7 @@ import java.util.List;
 /**
  * The class Element tree vo.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 public class ElementTreeVo implements Serializable {

@@ -14,7 +14,7 @@ package com.paascloud.security.core.validate.code.email;
 /**
  * The interface Sms code sender.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface EmailCodeSender {
 

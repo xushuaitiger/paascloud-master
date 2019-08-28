@@ -14,7 +14,7 @@ package com.paascloud.provider.model.vo.treeview;
 /**
  * The class Item type.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface ItemType {
 	/**
@@ -26,4 +26,3 @@ public interface ItemType {
 	 */
 	String NODE_ITEM = "item";
 }
-  

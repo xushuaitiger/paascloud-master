@@ -22,7 +22,7 @@ import org.springframework.scheduling.support.PeriodicTrigger;
 /**
  * The class Custom poller configuration.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Configuration
 public class CustomPollerConfiguration {

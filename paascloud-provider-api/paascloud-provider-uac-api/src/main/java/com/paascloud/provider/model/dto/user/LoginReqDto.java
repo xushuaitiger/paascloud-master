@@ -20,7 +20,7 @@ import java.io.Serializable;
 /**
  * The class Login req dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel(value = "登录参数")
@@ -51,4 +51,3 @@ public class LoginReqDto implements Serializable {
 	private Long applicationId;
 
 }
-  

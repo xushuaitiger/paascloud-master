@@ -31,7 +31,7 @@ import java.util.Set;
 /**
  * The class Email producer.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Component
 @Slf4j

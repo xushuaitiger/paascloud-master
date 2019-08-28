@@ -14,7 +14,7 @@ package com.paascloud.base.exception;
 /**
  * The class Import exception.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public class ImportException extends RuntimeException {
 

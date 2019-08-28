@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * The class Id test.
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Slf4j
 public class IdTest {

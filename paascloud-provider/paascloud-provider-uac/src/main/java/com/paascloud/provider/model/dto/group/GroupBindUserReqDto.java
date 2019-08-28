@@ -22,7 +22,7 @@ import java.util.List;
 /**
  * The class Group bind user req dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel(value = "GroupBindUserReqDto")

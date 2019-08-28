@@ -20,7 +20,7 @@ import java.io.Serializable;
 /**
  * The class Forget check answer dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel

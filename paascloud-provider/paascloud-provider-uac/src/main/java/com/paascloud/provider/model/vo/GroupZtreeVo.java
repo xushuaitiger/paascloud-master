@@ -22,7 +22,7 @@ import java.util.Date;
 /**
  * The class Group z tree vo.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Getter
 @Setter

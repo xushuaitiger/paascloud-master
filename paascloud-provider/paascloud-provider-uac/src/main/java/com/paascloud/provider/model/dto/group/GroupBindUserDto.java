@@ -22,7 +22,7 @@ import java.util.Set;
 /**
  * The class Group bind user dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel(value = "GroupBindUserDto")
