@@ -18,7 +18,7 @@ import java.io.Serializable;
 /**
  * The class Opt attachment query req dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 public class OptAttachmentQueryReqDto implements Serializable {

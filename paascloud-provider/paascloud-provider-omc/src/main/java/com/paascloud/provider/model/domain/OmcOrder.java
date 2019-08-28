@@ -23,7 +23,7 @@ import java.util.Date;
 /**
  * The class Omc order.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

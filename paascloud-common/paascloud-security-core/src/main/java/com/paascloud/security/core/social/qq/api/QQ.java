@@ -15,7 +15,7 @@ package com.paascloud.security.core.social.qq.api;
 /**
  * The interface Qq.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface QQ {
 

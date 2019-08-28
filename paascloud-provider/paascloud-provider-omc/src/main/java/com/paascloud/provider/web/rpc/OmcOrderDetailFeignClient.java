@@ -23,7 +23,7 @@ import io.swagger.annotations.Api;
 /**
  * The class Omc order detail feign client.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @RefreshScope
 @RestController

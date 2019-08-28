@@ -21,7 +21,7 @@ import java.util.Collection;
 /**
  * The class Open id authentication token.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public class OpenIdAuthenticationToken extends AbstractAuthenticationToken {
 

@@ -19,7 +19,7 @@ import org.springframework.stereotype.Service;
 /**
  * The class Ptc pay info service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Service
 public class PtcPayInfoServiceImpl extends BaseService<PtcPayInfo> implements PtcPayInfoService {

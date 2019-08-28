@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * The interface Uac group user service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface UacGroupUserService extends IService<UacGroupUser> {
 	/**

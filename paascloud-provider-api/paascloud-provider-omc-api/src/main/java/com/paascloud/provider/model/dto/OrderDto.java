@@ -20,7 +20,7 @@ import java.util.Date;
 /**
  * The class Order dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 public class OrderDto implements Serializable {

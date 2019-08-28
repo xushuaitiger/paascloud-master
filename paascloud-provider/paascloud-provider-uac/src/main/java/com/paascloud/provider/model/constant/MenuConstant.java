@@ -14,7 +14,7 @@ package com.paascloud.provider.model.constant;
 /**
  * The class Menu constant.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public class MenuConstant {
 	/**

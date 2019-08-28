@@ -18,7 +18,7 @@ import com.paascloud.provider.model.dto.oss.OptUploadFileRespDto;
 /**
  * The interface Opc oss service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface OpcOssService {
 	/**

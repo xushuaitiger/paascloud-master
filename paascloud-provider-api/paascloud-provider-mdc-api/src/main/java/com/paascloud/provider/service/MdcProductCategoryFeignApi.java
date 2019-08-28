@@ -18,7 +18,7 @@ import org.springframework.cloud.netflix.feign.FeignClient;
 /**
  * The interface Mdc product category feign api.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @FeignClient(value = "paascloud-provider-mdc", configuration = OAuth2FeignAutoConfiguration.class, fallback = MdcProductCategoryFeignHystrix.class)
 public interface MdcProductCategoryFeignApi {

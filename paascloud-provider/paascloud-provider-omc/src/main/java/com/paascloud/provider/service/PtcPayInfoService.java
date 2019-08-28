@@ -17,7 +17,7 @@ import com.paascloud.provider.model.domain.PtcPayInfo;
 /**
  * The interface Ptc pay info service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface PtcPayInfoService extends IService<PtcPayInfo> {
 }

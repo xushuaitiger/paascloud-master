@@ -32,7 +32,7 @@ import javax.annotation.Resource;
 /**
  * The class Omc order controller.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/order")

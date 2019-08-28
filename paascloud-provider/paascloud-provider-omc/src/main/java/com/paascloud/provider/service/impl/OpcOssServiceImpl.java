@@ -27,7 +27,7 @@ import javax.annotation.Resource;
 /**
  * The class Opc oss service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Slf4j
 @Service

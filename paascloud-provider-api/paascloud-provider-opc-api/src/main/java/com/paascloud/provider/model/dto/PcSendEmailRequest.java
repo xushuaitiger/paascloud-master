@@ -19,7 +19,7 @@ import java.util.Set;
 /**
  * The class Pc send email request.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 public class PcSendEmailRequest implements Serializable {

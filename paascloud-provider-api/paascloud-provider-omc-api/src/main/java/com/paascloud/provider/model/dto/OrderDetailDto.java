@@ -19,7 +19,7 @@ import java.math.BigDecimal;
 /**
  * The class Order detail dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 public class OrderDetailDto implements Serializable {

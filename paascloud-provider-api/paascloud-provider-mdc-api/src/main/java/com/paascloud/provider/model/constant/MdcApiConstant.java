@@ -17,7 +17,7 @@ import lombok.NoArgsConstructor;
 /**
  * The class Mdc api constant.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class MdcApiConstant {
@@ -25,7 +25,7 @@ public class MdcApiConstant {
 	/**
 	 * The enum Product status enum.
 	 *
-	 * @author paascloud.net@gmail.com
+	 * @author tiger
 	 */
 	public enum ProductStatusEnum {
 		/**

@@ -16,7 +16,7 @@ import java.util.Set;
 /**
  * The interface Redis set service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface RedisSetService {
 	/**

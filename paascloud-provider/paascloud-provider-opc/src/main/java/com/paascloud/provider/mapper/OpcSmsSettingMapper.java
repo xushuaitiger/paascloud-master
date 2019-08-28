@@ -19,7 +19,7 @@ import org.springframework.stereotype.Component;
 /**
  * The interface Opc sms setting mapper.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Mapper
 @Component

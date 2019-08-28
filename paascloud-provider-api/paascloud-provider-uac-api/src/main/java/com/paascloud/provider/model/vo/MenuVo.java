@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * The class Menu vo.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel("菜单")

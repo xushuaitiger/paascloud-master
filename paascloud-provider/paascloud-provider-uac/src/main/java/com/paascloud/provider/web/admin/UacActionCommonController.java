@@ -34,7 +34,7 @@ import javax.annotation.Resource;
 /**
  * The class Uac action common controller.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/action", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)

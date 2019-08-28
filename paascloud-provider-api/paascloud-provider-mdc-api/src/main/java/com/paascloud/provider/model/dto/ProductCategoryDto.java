@@ -22,7 +22,7 @@ import java.util.List;
 /**
  * The class Product category dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel

@@ -23,7 +23,7 @@ import java.math.BigDecimal;
 /**
  * The class Mdc product.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

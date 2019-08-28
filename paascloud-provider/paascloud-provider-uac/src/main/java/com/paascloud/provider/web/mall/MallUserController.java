@@ -33,7 +33,7 @@ import javax.annotation.Resource;
 /**
  * The class Mall user controller.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/user", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)

@@ -17,7 +17,7 @@ import lombok.NoArgsConstructor;
 /**
  * The class Ptc api constant.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class PtcApiConstant {
@@ -26,7 +26,7 @@ public class PtcApiConstant {
 	/**
 	 * The interface Alipay callback.
 	 *
-	 * @author paascloud.net@gmail.com
+	 * @author tiger
 	 */
 	public interface AlipayCallback {
 		/**
@@ -51,7 +51,7 @@ public class PtcApiConstant {
 	/**
 	 * The enum Pay platform enum.
 	 *
-	 * @author paascloud.net@gmail.com
+	 * @author tiger
 	 */
 	public enum PayPlatformEnum {
 		/**

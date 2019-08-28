@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * The class Mdc product category feign client.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @RefreshScope
 @RestController

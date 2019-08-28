@@ -19,7 +19,7 @@ import zipkin.server.EnableZipkinServer;
 /**
  * The class Paas cloud zipkin application.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @EnableDiscoveryClient
 @SpringBootApplication

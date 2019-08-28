@@ -17,7 +17,7 @@ import com.paascloud.security.core.social.qq.api.QQ;
 /**
  * The class Qq connection factory.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public class QQConnectionFactory extends OAuth2ConnectionFactory<QQ> {
 

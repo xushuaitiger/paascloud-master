@@ -23,7 +23,7 @@ import java.util.Set;
 /**
  * The class Redis set service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Slf4j
 @Service

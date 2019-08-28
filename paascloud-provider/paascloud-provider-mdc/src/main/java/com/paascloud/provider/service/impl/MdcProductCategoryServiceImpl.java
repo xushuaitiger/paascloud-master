@@ -38,7 +38,7 @@ import java.util.Set;
 /**
  * The class Mdc product category service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Service
 @Transactional(rollbackFor = Exception.class)

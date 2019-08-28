@@ -25,7 +25,7 @@ import java.nio.charset.Charset;
 /**
  * The class Qqo auth 2 template.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Slf4j
 public class QQOAuth2Template extends OAuth2Template {

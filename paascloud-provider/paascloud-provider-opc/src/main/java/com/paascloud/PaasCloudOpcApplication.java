@@ -32,7 +32,7 @@ import java.util.Properties;
 /**
  * The class Paas cloud opc application.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @EnableRetry
 @EnableCaching

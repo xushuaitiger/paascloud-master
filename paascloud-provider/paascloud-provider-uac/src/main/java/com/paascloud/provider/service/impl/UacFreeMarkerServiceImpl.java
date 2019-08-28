@@ -16,7 +16,7 @@ import java.util.Map;
 /**
  * The class Uac free marker service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Service
 public class UacFreeMarkerServiceImpl implements UacFreeMarkerService {

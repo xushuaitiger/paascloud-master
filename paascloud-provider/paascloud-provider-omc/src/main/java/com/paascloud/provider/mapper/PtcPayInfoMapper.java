@@ -19,7 +19,7 @@ import org.springframework.stereotype.Component;
 /**
  * The interface Ptc pay info mapper.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Mapper
 @Component

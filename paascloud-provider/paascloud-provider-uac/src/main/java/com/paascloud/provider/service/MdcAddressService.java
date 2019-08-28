@@ -16,7 +16,7 @@ import com.paascloud.provider.model.dto.AddressDTO;
 /**
  * The interface Omc order service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface MdcAddressService {
 	/**

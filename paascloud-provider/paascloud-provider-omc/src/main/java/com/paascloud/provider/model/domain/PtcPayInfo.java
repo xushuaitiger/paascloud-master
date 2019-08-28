@@ -21,7 +21,7 @@ import javax.persistence.Table;
 /**
  * The class Ptc pay info.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Table(name = "pc_ptc_pay_info")

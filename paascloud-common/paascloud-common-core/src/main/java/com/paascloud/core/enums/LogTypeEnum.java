@@ -21,7 +21,7 @@ import java.util.Map;
 /**
  * The enum Log type enum.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public enum LogTypeEnum {
 	/**

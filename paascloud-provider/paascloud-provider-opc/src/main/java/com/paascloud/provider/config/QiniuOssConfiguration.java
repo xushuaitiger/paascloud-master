@@ -25,7 +25,7 @@ import javax.annotation.Resource;
 /**
  * The class Qiniu oss configuration.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Slf4j
 @Configuration

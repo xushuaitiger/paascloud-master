@@ -22,7 +22,7 @@ import java.io.Serializable;
 /**
  * The class Uac role action.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @Table(name = "pc_uac_role_action")

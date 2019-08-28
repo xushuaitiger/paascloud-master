@@ -19,7 +19,7 @@ import org.springframework.stereotype.Component;
 /**
  * The class Omc cart query feign hystrix.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Component
 public class OmcCartQueryFeignHystrix implements OmcCartQueryFeignApi {

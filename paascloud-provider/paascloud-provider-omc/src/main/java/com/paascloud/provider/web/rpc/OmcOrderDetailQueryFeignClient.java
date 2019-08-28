@@ -33,7 +33,7 @@ import java.util.List;
 /**
  * The class Omc order detail query feign client.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @RefreshScope
 @RestController

@@ -25,7 +25,7 @@ import java.util.List;
 /**
  * The class Uac action.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

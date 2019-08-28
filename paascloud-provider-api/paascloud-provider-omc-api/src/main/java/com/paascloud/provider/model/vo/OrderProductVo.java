@@ -20,7 +20,7 @@ import java.util.List;
 /**
  * The class Order product vo.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 public class OrderProductVo implements Serializable {

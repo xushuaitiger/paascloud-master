@@ -18,7 +18,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 /**
  * The class Paas cloud eureka application.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @EnableEurekaServer
 @SpringBootApplication

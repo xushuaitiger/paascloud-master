@@ -22,7 +22,7 @@ import java.util.Date;
 /**
  * The class Order item vo.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 public class OrderItemVo implements Serializable {

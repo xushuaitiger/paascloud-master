@@ -22,7 +22,7 @@ import java.math.BigDecimal;
 /**
  * The class Omc order detail.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

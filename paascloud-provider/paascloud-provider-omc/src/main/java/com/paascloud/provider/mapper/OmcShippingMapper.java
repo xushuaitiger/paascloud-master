@@ -23,7 +23,7 @@ import java.util.List;
 /**
  * The interface Omc shipping mapper.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Mapper
 @Component

@@ -21,7 +21,7 @@ import javax.persistence.Table;
 /**
  * The class Omc shipping.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

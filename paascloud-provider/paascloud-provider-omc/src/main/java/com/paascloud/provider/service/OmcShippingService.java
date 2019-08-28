@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * The interface Omc shipping service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface OmcShippingService extends IService<OmcShipping> {
 	/**

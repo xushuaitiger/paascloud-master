@@ -27,7 +27,7 @@ import java.util.List;
 /**
  * The class Omc order detail service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Service
 public class OmcOrderDetailServiceImpl extends BaseService<OmcOrderDetail> implements OmcOrderDetailService {

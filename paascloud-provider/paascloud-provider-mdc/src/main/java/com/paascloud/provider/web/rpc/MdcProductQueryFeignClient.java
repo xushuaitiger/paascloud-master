@@ -33,7 +33,7 @@ import javax.annotation.Resource;
 /**
  * The class Mdc product query feign client.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @RefreshScope
 @RestController

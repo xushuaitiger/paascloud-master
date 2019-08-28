@@ -23,7 +23,7 @@ import java.util.List;
 /**
  * The class Mdc product category query feign hystrix.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Component
 public class MdcProductCategoryQueryFeignHystrix implements MdcProductCategoryQueryFeignApi {

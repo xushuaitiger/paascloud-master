@@ -17,7 +17,7 @@ import org.springframework.stereotype.Component;
 /**
  * The class Mdc product category feign hystrix.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Component
 public class MdcProductCategoryFeignHystrix implements MdcProductCategoryFeignApi {

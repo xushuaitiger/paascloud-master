@@ -22,7 +22,7 @@ import javax.persistence.Table;
 /**
  * The class Uac menu.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

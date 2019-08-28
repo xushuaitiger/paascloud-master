@@ -26,7 +26,7 @@ import com.paascloud.security.core.properties.SecurityProperties;
 /**
  * The class Qq auto config.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Configuration
 @ConditionalOnProperty(prefix = "paascloud.security.social.qq", name = "app-id")

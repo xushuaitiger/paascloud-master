@@ -33,7 +33,7 @@ import java.util.List;
 /**
  * The class Omc shipping service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Service
 public class OmcShippingServiceImpl extends BaseService<OmcShipping> implements OmcShippingService {

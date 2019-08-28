@@ -23,7 +23,7 @@ import com.paascloud.security.core.social.support.PcSpringSocialConfigurer;
 /**
  * The class Spring social configurer post processor.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Component
 public class SpringSocialConfigurerPostProcessor implements BeanPostProcessor {

@@ -17,7 +17,7 @@ import java.util.Set;
 /**
  * The interface Opt send mail service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface OptSendMailService {
 	/**

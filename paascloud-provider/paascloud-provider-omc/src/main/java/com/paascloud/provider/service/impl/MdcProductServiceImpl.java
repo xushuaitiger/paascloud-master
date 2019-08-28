@@ -29,7 +29,7 @@ import javax.annotation.Resource;
 /**
  * The class Mdc product service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Slf4j
 @Service

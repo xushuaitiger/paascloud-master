@@ -30,7 +30,7 @@ import java.util.List;
 /**
  * The class Mall cart feign client.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @RefreshScope
 @RestController

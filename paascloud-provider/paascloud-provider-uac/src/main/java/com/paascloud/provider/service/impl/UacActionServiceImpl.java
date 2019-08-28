@@ -31,7 +31,7 @@ import java.util.Objects;
 /**
  * The class Uac action service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Service
 @Transactional(rollbackFor = Exception.class)

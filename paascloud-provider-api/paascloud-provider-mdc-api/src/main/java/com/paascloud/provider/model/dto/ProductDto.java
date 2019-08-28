@@ -21,7 +21,7 @@ import java.math.BigDecimal;
 /**
  * The class Product dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel

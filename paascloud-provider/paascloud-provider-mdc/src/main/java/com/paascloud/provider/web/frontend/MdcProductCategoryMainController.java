@@ -34,7 +34,7 @@ import java.util.List;
 /**
  * The class Mdc category main controller.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/category", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)

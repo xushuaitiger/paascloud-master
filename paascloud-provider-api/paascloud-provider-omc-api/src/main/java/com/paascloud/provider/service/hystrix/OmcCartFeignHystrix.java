@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * The class Omc cart feign hystrix.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Component
 public class OmcCartFeignHystrix implements OmcCartFeignApi {

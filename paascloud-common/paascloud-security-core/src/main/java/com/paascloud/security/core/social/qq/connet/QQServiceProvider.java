@@ -20,7 +20,7 @@ import com.paascloud.security.core.social.qq.api.QQImpl;
 /**
  * The class Qq service provider.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public class QQServiceProvider extends AbstractOAuth2ServiceProvider<QQ> {
 

@@ -21,7 +21,7 @@ import java.io.Serializable;
 /**
  * The class Uac menu check url dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel(value = "UacActionCheckUrlDto")

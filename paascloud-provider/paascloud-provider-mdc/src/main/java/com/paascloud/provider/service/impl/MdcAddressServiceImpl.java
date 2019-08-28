@@ -27,7 +27,7 @@ import java.util.List;
 /**
  * The class Mdc address service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Service
 public class MdcAddressServiceImpl extends BaseService<MdcAddress> implements MdcAddressService {

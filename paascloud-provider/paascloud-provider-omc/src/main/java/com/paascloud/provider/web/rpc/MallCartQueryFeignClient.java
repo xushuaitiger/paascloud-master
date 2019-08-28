@@ -29,7 +29,7 @@ import javax.annotation.Resource;
 /**
  * The class Mall cart query feign client.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @RefreshScope
 @RestController

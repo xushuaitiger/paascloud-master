@@ -16,7 +16,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * The interface Redis service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface RedisService {
 

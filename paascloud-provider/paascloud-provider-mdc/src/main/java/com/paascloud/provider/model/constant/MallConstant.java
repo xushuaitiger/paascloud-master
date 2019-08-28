@@ -14,13 +14,13 @@ package com.paascloud.provider.model.constant;
 /**
  * The class Mall constant.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public class MallConstant {
 	/**
 	 * The enum Product status enum.
 	 *
-	 * @author paascloud.net@gmail.com
+	 * @author tiger
 	 */
 	public enum ProductStatusEnum {
 		/**

@@ -18,7 +18,7 @@ import java.io.Serializable;
 /**
  * The class Pc send sms request.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 public class PcSendSmsRequest implements Serializable {

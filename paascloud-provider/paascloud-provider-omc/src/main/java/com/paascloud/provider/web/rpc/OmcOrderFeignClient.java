@@ -30,7 +30,7 @@ import javax.annotation.Resource;
 /**
  * The class Omc order feign client.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @RefreshScope
 @RestController

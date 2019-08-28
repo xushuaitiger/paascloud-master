@@ -30,7 +30,7 @@ import java.util.List;
 /**
  * The class Mdc address rest.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/address", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)

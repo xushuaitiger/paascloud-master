@@ -18,7 +18,7 @@ import java.util.Set;
 /**
  * The interface Redis hash service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface RedisHashService {
 

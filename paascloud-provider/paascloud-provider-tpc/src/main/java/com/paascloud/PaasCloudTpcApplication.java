@@ -27,7 +27,7 @@ import javax.sql.DataSource;
 /**
  * The class Paas cloud mdc application.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @EnableRetry
 @EnableCaching

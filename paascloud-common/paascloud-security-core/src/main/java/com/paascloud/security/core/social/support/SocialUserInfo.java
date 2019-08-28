@@ -16,7 +16,7 @@ import lombok.Data;
 /**
  * The class Social user info.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 public class SocialUserInfo {

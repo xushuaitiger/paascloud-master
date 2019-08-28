@@ -19,7 +19,7 @@ import java.util.List;
 /**
  * The interface Omc order detail service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface OmcOrderDetailService extends IService<OmcOrderDetail> {
 	/**

@@ -18,7 +18,7 @@ import java.io.Serializable;
 /**
  * The class Opt attachment resp dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 public class OptAttachmentRespDto implements Serializable {

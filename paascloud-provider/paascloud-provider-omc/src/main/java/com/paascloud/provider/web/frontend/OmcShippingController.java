@@ -27,7 +27,7 @@ import javax.annotation.Resource;
 /**
  * The class Omc shipping controller.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/shipping", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)

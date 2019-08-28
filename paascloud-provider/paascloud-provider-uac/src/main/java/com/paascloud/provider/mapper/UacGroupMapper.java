@@ -19,7 +19,7 @@ import org.springframework.stereotype.Component;
 /**
  * The interface Uac group mapper.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Mapper
 @Component

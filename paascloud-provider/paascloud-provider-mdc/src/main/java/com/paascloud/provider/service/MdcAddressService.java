@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * The interface Mdc address service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface MdcAddressService extends IService<MdcAddress> {
 	/**

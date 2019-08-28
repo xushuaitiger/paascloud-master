@@ -25,7 +25,7 @@ import java.util.Set;
 /**
  * The class Mail entity.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Slf4j
 @Data

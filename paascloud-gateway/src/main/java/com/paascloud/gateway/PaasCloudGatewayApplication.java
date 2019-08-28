@@ -26,7 +26,7 @@ import org.springframework.web.filter.CorsFilter;
 /**
  * The class Paas cloud gateway application.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @SpringBootApplication
 @EnableDiscoveryClient

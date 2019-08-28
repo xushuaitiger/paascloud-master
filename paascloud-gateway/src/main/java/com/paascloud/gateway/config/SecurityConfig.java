@@ -17,7 +17,7 @@ import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 
 /**
- * The class Security config.
+ * spring security 安全设置类
  *
  * @author tiger
  */
@@ -26,7 +26,7 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
 	/**
-	 * Configure.
+	 * // 设置 HTTP 验证规则
 	 *
 	 * @param http the http
 	 *
@@ -35,6 +35,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 	@Override
 	protected void configure(HttpSecurity http) throws Exception {
 
+		// 关闭csrf验证
 		http.csrf().disable();
 
 

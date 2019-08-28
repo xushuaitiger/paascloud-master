@@ -20,7 +20,7 @@ import java.io.Serializable;
 /**
  * 重置密码.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel

@@ -26,7 +26,7 @@ import java.io.InputStream;
 /**
  * The class Uac fallback provider.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Component
 @Slf4j

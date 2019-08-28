@@ -49,7 +49,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * The class Opt qiniu oss service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Slf4j
 @Service

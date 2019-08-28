@@ -19,7 +19,7 @@ import org.springframework.stereotype.Component;
 /**
  * The class Opc oss feign api hystrix.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Component
 public class OpcGaodeFeignApiHystrix implements OpcGaodeFeignApi {

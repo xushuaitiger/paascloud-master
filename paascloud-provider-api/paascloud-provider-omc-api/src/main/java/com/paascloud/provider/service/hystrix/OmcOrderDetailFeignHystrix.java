@@ -18,7 +18,7 @@ import org.springframework.stereotype.Component;
 /**
  * The class Omc order detail feign hystrix.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Component
 public class OmcOrderDetailFeignHystrix implements OmcOrderDetailFeignApi {

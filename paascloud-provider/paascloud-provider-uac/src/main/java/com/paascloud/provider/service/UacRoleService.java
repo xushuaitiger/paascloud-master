@@ -28,7 +28,7 @@ import java.util.List;
 /**
  * The interface Uac role service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface UacRoleService extends IService<UacRole> {
 

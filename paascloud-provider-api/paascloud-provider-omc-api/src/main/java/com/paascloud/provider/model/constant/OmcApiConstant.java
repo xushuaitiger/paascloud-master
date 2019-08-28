@@ -17,7 +17,7 @@ import lombok.NoArgsConstructor;
 /**
  * The class Omc api constant.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class OmcApiConstant {

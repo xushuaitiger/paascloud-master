@@ -25,7 +25,7 @@ import java.io.Serializable;
 /**
  * The class Uac role.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

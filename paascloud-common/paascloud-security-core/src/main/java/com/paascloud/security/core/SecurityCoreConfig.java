@@ -19,7 +19,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * The class Security core config.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Configuration
 @EnableConfigurationProperties(SecurityProperties.class)

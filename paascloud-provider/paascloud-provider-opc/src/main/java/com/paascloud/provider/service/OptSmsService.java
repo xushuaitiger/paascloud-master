@@ -17,7 +17,7 @@ import com.aliyuncs.dysmsapi.model.v20170525.SendSmsResponse;
 /**
  * The interface Opt sms service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface OptSmsService {
 	/**

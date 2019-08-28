@@ -31,7 +31,7 @@ import javax.annotation.Resource;
 /**
  * 日志管理.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/log", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)

@@ -26,7 +26,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * The class Opc attachment feign client.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @RestController
 @Api(value = "API - OpcGaodeFeignClient", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)

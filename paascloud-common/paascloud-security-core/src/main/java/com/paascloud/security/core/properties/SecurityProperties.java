@@ -17,7 +17,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 /**
  * The class Security properties.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @ConfigurationProperties(prefix = "paascloud.security")
 public class SecurityProperties {

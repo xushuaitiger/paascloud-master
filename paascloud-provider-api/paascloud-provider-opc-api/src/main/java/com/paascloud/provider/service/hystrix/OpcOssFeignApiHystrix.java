@@ -22,7 +22,7 @@ import java.util.List;
 /**
  * The class Opc oss feign api hystrix.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Component
 public class OpcOssFeignApiHystrix implements OpcOssFeignApi {

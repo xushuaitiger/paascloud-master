@@ -20,7 +20,7 @@ import java.io.Serializable;
 /**
  * The class Uac menu url dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel(value = "根据URL查询菜单Dto")

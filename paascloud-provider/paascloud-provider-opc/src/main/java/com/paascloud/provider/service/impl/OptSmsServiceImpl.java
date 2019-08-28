@@ -31,7 +31,7 @@ import javax.annotation.Resource;
 /**
  * The class Opt sms service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Slf4j
 @Service

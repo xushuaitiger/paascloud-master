@@ -19,7 +19,7 @@ import java.util.List;
 /**
  * The class Pagination plugin.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public class PaginationPlugin extends PluginAdapter {
 

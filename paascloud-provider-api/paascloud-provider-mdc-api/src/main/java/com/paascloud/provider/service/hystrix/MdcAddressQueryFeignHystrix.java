@@ -19,7 +19,7 @@ import org.springframework.stereotype.Component;
 /**
  * The class Mdc product query feign hystrix.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Component
 public class MdcAddressQueryFeignHystrix implements MdcAddressQueryFeignApi {

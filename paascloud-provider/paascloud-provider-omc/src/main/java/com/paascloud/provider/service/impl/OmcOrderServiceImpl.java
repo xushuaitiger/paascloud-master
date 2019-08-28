@@ -55,7 +55,7 @@ import java.util.Objects;
 /**
  * The class Omc order service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Service
 public class OmcOrderServiceImpl extends BaseService<OmcOrder> implements OmcOrderService {

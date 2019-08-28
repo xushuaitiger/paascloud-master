@@ -39,7 +39,7 @@ import java.util.Set;
 /**
  * The class Opt send mail service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Slf4j
 @Service

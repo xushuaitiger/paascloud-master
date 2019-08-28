@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * The interface Mdc address mapper.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Mapper
 @Component

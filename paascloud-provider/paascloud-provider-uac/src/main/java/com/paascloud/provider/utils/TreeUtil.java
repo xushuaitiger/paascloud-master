@@ -23,7 +23,7 @@ import java.util.Objects;
 /**
  * The class Tree util.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class TreeUtil {

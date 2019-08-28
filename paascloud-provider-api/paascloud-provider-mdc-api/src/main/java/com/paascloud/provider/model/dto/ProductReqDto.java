@@ -21,7 +21,7 @@ import lombok.EqualsAndHashCode;
 /**
  * The class Product req dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

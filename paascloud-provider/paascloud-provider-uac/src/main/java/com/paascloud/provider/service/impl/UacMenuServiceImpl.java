@@ -46,7 +46,7 @@ import java.util.*;
 /**
  * The class Uac menu service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Service
 @Transactional(rollbackFor = Exception.class)

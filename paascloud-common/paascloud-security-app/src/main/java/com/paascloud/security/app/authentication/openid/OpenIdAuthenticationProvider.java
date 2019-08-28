@@ -26,7 +26,7 @@ import java.util.Set;
 /**
  * The class Open id authentication provider.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public class OpenIdAuthenticationProvider implements AuthenticationProvider {
 

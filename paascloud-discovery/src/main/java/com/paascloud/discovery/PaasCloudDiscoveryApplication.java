@@ -19,7 +19,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 /**
  * The class Paas cloud discovery application.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @SpringBootApplication
 @EnableConfigServer

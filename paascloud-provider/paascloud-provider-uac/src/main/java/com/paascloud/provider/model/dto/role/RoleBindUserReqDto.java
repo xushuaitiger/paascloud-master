@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * The class Role bind user req dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel(value = "角色绑定用户")

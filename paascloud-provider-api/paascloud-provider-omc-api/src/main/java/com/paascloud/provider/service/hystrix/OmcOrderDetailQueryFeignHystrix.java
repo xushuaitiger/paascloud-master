@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * The class Omc order detail query feign hystrix.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Component
 public class OmcOrderDetailQueryFeignHystrix implements OmcOrderDetailQueryFeignApi {

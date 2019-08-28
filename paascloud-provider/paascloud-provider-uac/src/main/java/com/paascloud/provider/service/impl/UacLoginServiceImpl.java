@@ -36,7 +36,7 @@ import java.util.List;
 /**
  * The class Uac login service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Slf4j
 @Service

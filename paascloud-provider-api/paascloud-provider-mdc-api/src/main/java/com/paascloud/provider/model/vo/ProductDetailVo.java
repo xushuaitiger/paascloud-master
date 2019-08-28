@@ -20,7 +20,7 @@ import java.math.BigDecimal;
 /**
  * The class Product detail vo.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel

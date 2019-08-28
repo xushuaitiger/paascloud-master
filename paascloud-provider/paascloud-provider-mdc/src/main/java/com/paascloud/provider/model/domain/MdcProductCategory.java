@@ -23,7 +23,7 @@ import javax.persistence.Table;
 /**
  * The class Mdc product category.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

@@ -19,7 +19,7 @@ import java.util.Map;
 /**
  * The interface Ptc alipay service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface PtcAlipayService {
 

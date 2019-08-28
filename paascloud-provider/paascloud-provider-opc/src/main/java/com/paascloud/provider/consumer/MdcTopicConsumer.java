@@ -28,7 +28,7 @@ import java.util.List;
 /**
  * The class Opt send sms topic consumer.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Slf4j
 @Service

@@ -29,7 +29,7 @@ import java.util.Map;
 /**
  * The class Sms producer.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Slf4j
 @Component

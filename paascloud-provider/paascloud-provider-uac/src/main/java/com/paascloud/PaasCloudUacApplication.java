@@ -28,7 +28,7 @@ import javax.sql.DataSource;
 /**
  * The class Paas cloud uac application.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @EnableHystrix
 @EnableFeignClients

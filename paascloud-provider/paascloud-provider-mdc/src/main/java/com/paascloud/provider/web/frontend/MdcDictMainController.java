@@ -33,7 +33,7 @@ import java.util.List;
 /**
  * The class Mdc dict main controller.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/dict", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)

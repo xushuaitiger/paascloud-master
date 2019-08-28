@@ -17,7 +17,7 @@ import com.paascloud.provider.model.dto.user.LoginRespDto;
 /**
  * The interface Uac login service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface UacLoginService {
 

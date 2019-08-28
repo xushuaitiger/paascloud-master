@@ -47,7 +47,7 @@ import java.util.List;
 /**
  * The class Omc cart service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Service
 public class OmcCartServiceImpl extends BaseService<OmcCart> implements OmcCartService {

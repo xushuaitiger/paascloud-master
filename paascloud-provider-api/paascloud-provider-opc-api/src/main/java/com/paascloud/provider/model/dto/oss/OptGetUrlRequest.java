@@ -20,7 +20,7 @@ import java.util.List;
 /**
  * The class Opt get url request.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel

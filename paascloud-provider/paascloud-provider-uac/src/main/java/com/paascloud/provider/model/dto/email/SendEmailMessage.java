@@ -18,7 +18,7 @@ import java.io.Serializable;
 /**
  * The class Send email message.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 public class SendEmailMessage implements Serializable {

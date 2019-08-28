@@ -24,7 +24,7 @@ import java.util.Set;
 /**
  * The class Opt send email topic consumer.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Slf4j
 @Service
