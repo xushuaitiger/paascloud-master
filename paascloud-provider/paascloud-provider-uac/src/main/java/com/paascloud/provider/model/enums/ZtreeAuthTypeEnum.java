@@ -15,7 +15,7 @@ package com.paascloud.provider.model.enums;
 /**
  * The enum Ztree auth type enum.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public enum ZtreeAuthTypeEnum {
 	/**

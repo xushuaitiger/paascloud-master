@@ -20,7 +20,7 @@ import java.io.Serializable;
 /**
  * The class User reset pwd dto.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Data
 @ApiModel(value = "用户忘记密码Dto")

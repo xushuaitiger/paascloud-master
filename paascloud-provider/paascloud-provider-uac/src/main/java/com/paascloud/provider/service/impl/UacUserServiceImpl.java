@@ -55,7 +55,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * The class Uac user service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Service
 @Transactional(rollbackFor = Exception.class)

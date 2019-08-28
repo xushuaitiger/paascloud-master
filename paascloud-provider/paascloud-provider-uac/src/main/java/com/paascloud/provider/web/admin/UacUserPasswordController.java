@@ -35,7 +35,7 @@ import javax.annotation.Resource;
 /**
  * 用户密码.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/user", produces = {"application/json;charset=UTF-8"})

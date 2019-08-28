@@ -26,7 +26,7 @@ import java.util.Set;
 /**
  * The class User vo.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

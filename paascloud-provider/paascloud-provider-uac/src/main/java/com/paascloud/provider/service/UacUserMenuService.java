@@ -17,7 +17,7 @@ import com.paascloud.core.support.IService;
 /**
  * The interface Uac user menu service.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public interface UacUserMenuService extends IService<UacUserMenu> {
 }

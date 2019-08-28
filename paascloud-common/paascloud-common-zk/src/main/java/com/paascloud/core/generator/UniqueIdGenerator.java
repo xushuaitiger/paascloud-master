@@ -14,7 +14,7 @@ package com.paascloud.core.generator;
 /**
  * 分布式唯一ID生成器
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public class UniqueIdGenerator implements IdGenerator {
 

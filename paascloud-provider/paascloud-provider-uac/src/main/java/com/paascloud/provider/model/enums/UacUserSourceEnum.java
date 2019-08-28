@@ -18,7 +18,7 @@ import java.util.List;
 /**
  * The enum Uac user source enum.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public enum UacUserSourceEnum {
 

@@ -27,7 +27,7 @@ import java.util.Date;
 /**
  * The class Uac user.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

@@ -19,7 +19,7 @@ import java.io.Serializable;
 /**
  * The class Z tree response vo.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public class ZtreeResponseVo implements Serializable {
 

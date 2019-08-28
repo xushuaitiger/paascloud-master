@@ -22,7 +22,7 @@ import java.util.Map;
 /**
  * The enum Uac user status enum.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 public enum UacUserStatusEnum {
 

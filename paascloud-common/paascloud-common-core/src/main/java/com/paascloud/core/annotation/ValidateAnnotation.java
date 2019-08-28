@@ -16,7 +16,7 @@ import java.lang.annotation.*;
 /**
  * The interface Validate annotation.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @Target({ElementType.PARAMETER, ElementType.METHOD})
 @Retention(RetentionPolicy.RUNTIME)

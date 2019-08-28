@@ -21,7 +21,7 @@ import java.io.Serializable;
 /**
  * The class Uac menu.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

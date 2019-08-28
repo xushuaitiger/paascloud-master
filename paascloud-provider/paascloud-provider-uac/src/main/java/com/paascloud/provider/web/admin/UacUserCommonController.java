@@ -40,7 +40,7 @@ import java.util.List;
 /**
  * 用户管理-公共方法.
  *
- * @author paascloud.net@gmail.com
+ * @author tiger
  */
 @RestController
 @RequestMapping(value = "/user", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
