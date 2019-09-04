@@ -23,14 +23,14 @@ import java.util.Map;
 
 
 /**
- * The class Token jwt enhancer.
+ * jwt token 添加自定义属性
  *
  * @author tiger
  */
 public class TokenJwtEnhancer implements TokenEnhancer {
 
 	/**
-	 * Enhance o auth 2 access token.
+	 * 为了向jwt token添加自定义信息，必须实现enhance方法
 	 *
 	 * @param accessToken          the access token
 	 * @param oAuth2Authentication the o auth 2 authentication
@@ -39,7 +39,9 @@ public class TokenJwtEnhancer implements TokenEnhancer {
 	 */
 	@Override
 	public OAuth2AccessToken enhance(OAuth2AccessToken accessToken, OAuth2Authentication oAuth2Authentication) {
+
 		Map<String, Object> info = new HashMap<>(8);
+		//时间戳
 		info.put("timestamp", System.currentTimeMillis());
 		Authentication authentication = oAuth2Authentication.getUserAuthentication();
 		if (authentication != null && authentication.getPrincipal() instanceof UserDetails) {
