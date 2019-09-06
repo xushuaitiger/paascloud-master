@@ -68,7 +68,7 @@ public class TpcMqProducerServiceImpl extends BaseService<TpcMqProducer> impleme
 
 	private void updateStatus(final String producerGroup, final int status) {
 		TpcMqProducer tpcMqProducer = mdcMqProducerMapper.getByPid(producerGroup);
-		if (tpcMqProducer.getStatus() != null && tpcMqProducer.getStatus() != status) {
+		if (tpcMqProducer !=null && tpcMqProducer.getStatus() != null && tpcMqProducer.getStatus() != status) {
 			TpcMqProducer update = new TpcMqProducer();
 			update.setStatus(status);
 			update.setId(tpcMqProducer.getId());

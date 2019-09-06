@@ -16,6 +16,7 @@ import javax.servlet.Filter;
  */
 @Component("validateCodeSecurityConfig")
 public class ValidateCodeSecurityConfig extends SecurityConfigurerAdapter<DefaultSecurityFilterChain, HttpSecurity> {
+
 	@Autowired
 	private Filter validateCodeFilter;
 
@@ -26,6 +27,8 @@ public class ValidateCodeSecurityConfig extends SecurityConfigurerAdapter<Defaul
 	 */
 	@Override
 	public void configure(HttpSecurity http) {
+
+		// 过滤器链 AbstractPreAuthenticatedProcessingFilter前增加validateCodeFilter
 		http.addFilterBefore(validateCodeFilter, AbstractPreAuthenticatedProcessingFilter.class);
 	}
 
